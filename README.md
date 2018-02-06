@@ -1,6 +1,8 @@
 # dataset-tools
 Java command-line tools for comparing results to ground truth for table location and structure detection as used in the ICDAR 2013 Table Competition.
 
+More information and runnable binaries (JAR and ZIP) can be downloaded from the [dataset page](http://www.tamirhassan.com/competition/dataset-tools.html) of the [competition website.](http://www.tamirhassan.com/competition.html) 
+
 ## Usage
 
 Download the build (JAR file). The command-line takes a minimum of 2 and a maximum of 5 parameters as input.
